@@ -1,2 +1,1 @@
-Nama  : Sumiarni Moka
-NIM   : E1E122032
+E1E122032_Sumiarni Moka
